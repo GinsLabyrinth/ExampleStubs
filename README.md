@@ -6,4 +6,6 @@ Ever done a code challenge (like hackerrank or codekata) or a coding interview v
 And then you don't actually do that because doing so would require you to look up yucky things like console input or xunit setup (you lazy lazy person you).
 Well then this repo is for you (at least if you're Coding in C#).
 
-Updated when i feel like it, run into something that needs it.
+Updated when I feel like it, run into something that needs it.
+
+I'm sure someone somewhere has already done this better. I make no claims to originality.
